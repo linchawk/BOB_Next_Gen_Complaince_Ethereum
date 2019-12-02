@@ -1,0 +1,1 @@
+../src/KYCMaster.sol|KYCMaster|0x022ec7ae96dc40b6a98c906b9f6bfa698f4bbe70|Imagination is more important than knowledge
